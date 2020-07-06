@@ -1,0 +1,30 @@
+body {
+  background-color: #1d1b38;
+}
+
+button {
+  margin-top: 3px;
+}
+h2 {
+  margin-top: 50px;
+}
+.container {
+  background-color: #1d1b38;
+  color: #f6bed6;
+  font-size: 12px;
+  font-family: verdana;
+  margin: auto;
+  height: 600px;
+  width: 500px;
+}
+
+.message-input {
+  margin-top: 15px;
+  width: 460px;
+}
+
+.passed-message {
+  color: white;
+  font-size: 40pt;
+  margin-top: 50px;
+}
